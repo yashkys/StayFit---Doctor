@@ -12,6 +12,9 @@
         android:theme="@style/Theme.StayFitDoctor"
         tools:targetApi="31">
         <activity
+            android:name=".AddDetailsActivity"
+            android:exported="false" />
+        <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity
