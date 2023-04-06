@@ -7,4 +7,22 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="textColor">#CCCCCC</color>
+    <color name="textColorSecondary">#A7A7A7</color>
+    <color name="textColorHighlight">#ffffff</color>
+    <color name="buttonColor">#8986e1</color>
+    <color name="pink">#eb7bc4</color>
+    <color name="lightBlue">#8986e1</color>
+    <color name="blue1">#2196F3</color>
+    <color name="appBackground">#0D1005</color>
+    <color name="iconColor">#808080</color>
+    <color name="editTextColor">#1F1F1F</color>
+    <color name="DarkGray">#919191</color>
+    <color name="DarkRed">#ffcc0000</color>
+    <color name="mustard">#FF9800</color>
+    <color name="yellow">#FFEF65</color>
+    <color name="green">#4CAF50</color>
+    <color name="skyBlue">#03A9F4</color>
+
 </resources>

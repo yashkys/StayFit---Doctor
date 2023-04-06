@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "703930910531",
+    "firebase_url": "https://stayfit-64a79-default-rtdb.firebaseio.com",
+    "project_id": "stayfit-64a79",
+    "storage_bucket": "stayfit-64a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703930910531:android:ec4f90ed733812ee9a91f6",
+        "android_client_info": {
+          "package_name": "com.example.stayfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703930910531-jgfe84mpd0g26o6luj95vqm3cv4a83bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-a9HxA073Sxf6QV23aeP2PUtNrUL7Vzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703930910531-jgfe84mpd0g26o6luj95vqm3cv4a83bh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703930910531-uhvu3ods7g4tgbifnf2ib7qqqdqqcief.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rishabhlalwani.StayFit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703930910531:android:28885eb91fcdf4139a91f6",
+        "android_client_info": {
+          "package_name": "com.example.stayfit_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703930910531-jgfe84mpd0g26o6luj95vqm3cv4a83bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-a9HxA073Sxf6QV23aeP2PUtNrUL7Vzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703930910531-jgfe84mpd0g26o6luj95vqm3cv4a83bh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703930910531-uhvu3ods7g4tgbifnf2ib7qqqdqqcief.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rishabhlalwani.StayFit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
