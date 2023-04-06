@@ -45,7 +45,7 @@ public class RegisterActivity extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
         database = FirebaseDatabase.getInstance();
-        userRef = database.getReference().child("users");
+        userRef = database.getReference().child("doctors");
 
         tvLogin.setOnClickListener(view1 -> {
             Intent intent = new Intent(this, LoginActivity.class);
